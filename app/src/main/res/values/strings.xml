@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">quiz</string>
+    <string name="question_jalisco">Guadalajara es la capital de Jalisco</string>
+    <string name="question_ameca">ameca se encuentra en jalisco</string>
+    <string name="question_zacatecas">zacatecas no tiene capital</string>
+    <string name="question_tlaxcala">tlaxcala es el estado mas grande</string>
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">Falso</string>
+    <string name="correct_toast">!Correcto!</string>
+    <string name="incorrect_toast">!Incorrecto!</string>
+    <string name="next_button">Siguiente</string>
+    <string name="prev_button">Anterior</string>
+</resources>
